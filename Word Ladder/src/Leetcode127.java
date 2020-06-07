@@ -25,7 +25,7 @@ public class Leetcode127 {
                     String newWord = word.substring(0, i) + (char)(j + 'a') + word.substring(i+1);
                     if (dictionary.contains(newWord) && !visited.contains(newWord)) {
                         visited.add(newWord);
-                        queue.offer(  new Pair<>(newWord, step+1));
+                        queue.offer(new Pair<>(newWord, step+1));
                     }
                 }
             }
