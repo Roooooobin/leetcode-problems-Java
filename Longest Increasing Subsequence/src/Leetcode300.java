@@ -35,5 +35,8 @@ public class Leetcode300 {
         Leetcode300 ins = new Leetcode300();
         int[] nums = new int[] {10, 9, 2, 5, 3, 4};
         System.out.println(ins.lengthOfLIS(nums));
+
+        int[] nums2 = new int[] {1, 2, 3, 4, 5, 6};
+        System.out.println(ins.lowerBound(nums2, 0, nums2.length, 2));
     }
 }
