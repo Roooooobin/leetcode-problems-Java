@@ -3,6 +3,10 @@ import java.util.Deque;
 
 public class Leetcode962 {
 
+    /*
+    https://leetcode-cn.com/problems/maximum-width-ramp/solution/java-dan-diao-zhan-er-fen-jie-fa-chang-shi-jie-shi/
+    反证法解释单调栈
+     */
     public int maxWidthRamp(int[] nums) {
 
         Deque<Integer> stack = new ArrayDeque<>();
