@@ -1,7 +1,5 @@
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class Leetcode138 {
     class Node {
@@ -28,7 +26,28 @@ public class Leetcode138 {
         return copy;
     }
 
-    public Node copyRandomList(Node head) {
+    public Node copyRandomList2(Node head) {
         return dfs(head);
+    }
+
+    public Node copyRandomList(Node head) {
+
+        if (head == null) {
+            return null;
+        }
+
+        HashMap<Node, Node> hash = new HashMap<>();
+        Node p = head;
+        while (p != null) {
+            hash.put(p, new Node(p.val));
+            p = p.next;
+        }
+        p = head;
+        while (p != null) {
+            hash.get(p).next = hash.get(p.next);
+            hash.get(p).random = hash.get(p.random);
+            p = p.next;
+        }
+        return hash.get(head);
     }
 }
