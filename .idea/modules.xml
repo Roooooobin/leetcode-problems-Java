@@ -2,6 +2,46 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2 Keys Keyboard/2 Keys Keyboard.iml" filepath="$PROJECT_DIR$/2 Keys Keyboard/2 Keys Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Break a Palindrome/Break a Palindrome.iml" filepath="$PROJECT_DIR$/Break a Palindrome/Break a Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bulb Switcher II/Bulb Switcher II.iml" filepath="$PROJECT_DIR$/Bulb Switcher II/Bulb Switcher II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course Schedule IV/Course Schedule IV.iml" filepath="$PROJECT_DIR$/Course Schedule IV/Course Schedule IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIstinct Subsequences/DIstinct Subsequences.iml" filepath="$PROJECT_DIR$/DIstinct Subsequences/DIstinct Subsequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defuse the Bomb/Defuse the Bomb.iml" filepath="$PROJECT_DIR$/Defuse the Bomb/Defuse the Bomb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delete Operation for Two Strings/Delete Operation for Two Strings.iml" filepath="$PROJECT_DIR$/Delete Operation for Two Strings/Delete Operation for Two Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Destination City/Destination City.iml" filepath="$PROJECT_DIR$/Destination City/Destination City.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expression Add Operators/Expression Add Operators.iml" filepath="$PROJECT_DIR$/Expression Add Operators/Expression Add Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Winner on a Tic Tac Toe Game/Find Winner on a Tic Tac Toe Game.iml" filepath="$PROJECT_DIR$/Find Winner on a Tic Tac Toe Game/Find Winner on a Tic Tac Toe Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flatten a Multilevel Doubly Linked List/Flatten a Multilevel Doubly Linked List.iml" filepath="$PROJECT_DIR$/Flatten a Multilevel Doubly Linked List/Flatten a Multilevel Doubly Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fraction to Recurring Decimal/Fraction to Recurring Decimal.iml" filepath="$PROJECT_DIR$/Fraction to Recurring Decimal/Fraction to Recurring Decimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intersection of Two Arrays II/Intersection of Two Arrays II.iml" filepath="$PROJECT_DIR$/Intersection of Two Arrays II/Intersection of Two Arrays II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jianzhi Offer 114/Jianzhi Offer 114.iml" filepath="$PROJECT_DIR$/Jianzhi Offer 114/Jianzhi Offer 114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jianzhi Offer 115/Jianzhi Offer 115.iml" filepath="$PROJECT_DIR$/Jianzhi Offer 115/Jianzhi Offer 115.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Magic Square/Largest Magic Square.iml" filepath="$PROJECT_DIR$/Largest Magic Square/Largest Magic Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/License Key Formatting/License Key Formatting.iml" filepath="$PROJECT_DIR$/License Key Formatting/License Key Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" filepath="$PROJECT_DIR$/Longest Common Subsequence/Longest Common Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Happy String/Longest Happy String.iml" filepath="$PROJECT_DIR$/Longest Happy String/Longest Happy String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Turbulent Subarrary/Longest Turbulent Subarrary.iml" filepath="$PROJECT_DIR$/Longest Turbulent Subarrary/Longest Turbulent Subarrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Magic Squares In Grid/Magic Squares In Grid.iml" filepath="$PROJECT_DIR$/Magic Squares In Grid/Magic Squares In Grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Make The String Great/Make The String Great.iml" filepath="$PROJECT_DIR$/Make The String Great/Make The String Great.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Length of a Concatenated String with Unique Characters/Maximum Length of a Concatenated String with Unique Characters.iml" filepath="$PROJECT_DIR$/Maximum Length of a Concatenated String with Unique Characters/Maximum Length of a Concatenated String with Unique Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum ASCII Delete Sum for Two Strings/Minimum ASCII Delete Sum for Two Strings.iml" filepath="$PROJECT_DIR$/Minimum ASCII Delete Sum for Two Strings/Minimum ASCII Delete Sum for Two Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Next Greater Node In Linked List/Next Greater Node In Linked List.iml" filepath="$PROJECT_DIR$/Next Greater Node In Linked List/Next Greater Node In Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nim Game/Nim Game.iml" filepath="$PROJECT_DIR$/Nim Game/Nim Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Equivalent Domino Pairs/Number of Equivalent Domino Pairs.iml" filepath="$PROJECT_DIR$/Number of Equivalent Domino Pairs/Number of Equivalent Domino Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Steps to Reduce a Number in Binary Representation to One/Number of Steps to Reduce a Number in Binary Representation to One.iml" filepath="$PROJECT_DIR$/Number of Steps to Reduce a Number in Binary Representation to One/Number of Steps to Reduce a Number in Binary Representation to One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Subsequences That Satisfy the Given Sum Condition/Number of Subsequences That Satisfy the Given Sum Condition.iml" filepath="$PROJECT_DIR$/Number of Subsequences That Satisfy the Given Sum Condition/Number of Subsequences That Satisfy the Given Sum Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Partition to K Equal Sum Subsets/Partition to K Equal Sum Subsets.iml" filepath="$PROJECT_DIR$/Partition to K Equal Sum Subsets/Partition to K Equal Sum Subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Range Sum of Sorted Subarray Sums/Range Sum of Sorted Subarray Sums.iml" filepath="$PROJECT_DIR$/Range Sum of Sorted Subarray Sums/Range Sum of Sorted Subarray Sums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle Area/Rectangle Area.iml" filepath="$PROJECT_DIR$/Rectangle Area/Rectangle Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shortest Path in a Grid with Obstacles Elimination/Shortest Path in a Grid with Obstacles Elimination.iml" filepath="$PROJECT_DIR$/Shortest Path in a Grid with Obstacles Elimination/Shortest Path in a Grid with Obstacles Elimination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort Array By Parity/Sort Array By Parity.iml" filepath="$PROJECT_DIR$/Sort Array By Parity/Sort Array By Parity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort Array By Parity II/Sort Array By Parity II.iml" filepath="$PROJECT_DIR$/Sort Array By Parity II/Sort Array By Parity II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting the Sentence/Sorting the Sentence.iml" filepath="$PROJECT_DIR$/Sorting the Sentence/Sorting the Sentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Split Linked List in Parts/Split Linked List in Parts.iml" filepath="$PROJECT_DIR$/Split Linked List in Parts/Split Linked List in Parts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Split a String Into the Max Number of Unique Substrings/Split a String Into the Max Number of Unique Substrings.iml" filepath="$PROJECT_DIR$/Split a String Into the Max Number of Unique Substrings/Split a String Into the Max Number of Unique Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Super Washing Machines/Super Washing Machines.iml" filepath="$PROJECT_DIR$/Super Washing Machines/Super Washing Machines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unique Email Address/Unique Email Address.iml" filepath="$PROJECT_DIR$/Unique Email Address/Unique Email Address.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode-problems-Java.iml" filepath="$PROJECT_DIR$/.idea/leetcode-problems-Java.iml" />
     </modules>
   </component>
