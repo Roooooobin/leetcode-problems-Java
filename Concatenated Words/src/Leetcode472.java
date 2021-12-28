@@ -6,9 +6,51 @@ import java.util.List;
 /*
 https://leetcode-cn.com/problems/concatenated-words/solution/gong-shui-san-xie-xu-lie-dpzi-fu-chuan-h-p7no/
  */
-// 想出思路是哈希优化+dp，但是还是不太熟悉具体做法
+// 直接dp是能AC的，不过比较慢
 public class Leetcode472 {
 
+    HashSet<String> hashSet = new HashSet<>();
+    private final int H = 131, OFFSET = 128;
+
+    public List<String> findAllConcatenatedWordsInADict(String[] words) {
+
+        hashSet.addAll(Arrays.asList(words));
+        ArrayList<String> res = new ArrayList<>();
+        for (String s : words) {
+            if (check(s)) {
+                res.add(s);
+            }
+        }
+        return res;
+    }
+
+    public boolean check(String s) {
+
+        int n = s.length();
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        dp[0] = 0;
+        for (int i = 0; i <= n; i++) {
+            if (dp[i] == -1) {
+                continue;
+            }
+            StringBuilder cur = new StringBuilder();
+            for (int j = i + 1; j <= n; j++) {
+                cur.append(s.charAt(j - 1));
+                if (hashSet.contains(cur.toString())) {
+                    dp[j] = Math.max(dp[j], dp[i] + 1);
+                }
+                if (dp[n] > 1) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+}
+
+// 想出思路是哈希优化+dp，但是还是不太熟悉具体做法
+class Solution {
     HashSet<Long> hashSet = new HashSet<>();
     private final int H = 131, OFFSET = 128;
 
