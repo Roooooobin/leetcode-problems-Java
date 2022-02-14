@@ -2,7 +2,9 @@ import java.util.Arrays;
 
 public class MyHeap {
 
-    int[] a = new int[] {50, 40, 100, 2, 1, 110, 888, 91, 3, 45};
+    //    int[] a = new int[] {50, 40, 100, 2, 1, 110, 888, 91, 3, 45};
+
+    int[] a = new int[] {45, 50, 40, 3, 100};
 
     public int[] buildHeap() {
 
